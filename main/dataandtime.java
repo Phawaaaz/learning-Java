@@ -3,7 +3,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.Scanner;
 
-public class DateTimeConverter {
+public class dataandtime {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
